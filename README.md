@@ -7,7 +7,7 @@
     I am a backend web-developer and artificial intelligence enthusiast, 💻 inspired to develop technologies for the greater good. <br>
     :sparkles: Favorite Tech: JavaScript, Python <br
     :notebook: I’m currently learning React and improving my knowledge of JS <br>
-    :email:	samabraham.assareymuriyil@gmail.com <br>
+    :email:	Email: samabraham.assareymuriyil@gmail.com <br>
     :art: Personal Wesite: https://samabrahama.tech/ <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/sam-abraham-assareymuriyil/ <br>
     🧳 Devpost: https://devpost.com/GuitarSlayerSam <br>
