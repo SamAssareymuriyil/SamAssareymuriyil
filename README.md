@@ -10,8 +10,8 @@
     :email:	samabraham.assareymuriyil@gmail.com <br>
     :art: Personal Wesite: https://samabrahama.tech/ <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/sam-abraham-assareymuriyil/ <br>
-   <img align="center" alt="SamAssareymuriyil's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SamAssareymuriyil&show_icons=true&hide_border=true" />
-   [My Wall](https://idemoed.vercel.app/api/wall?username=GuitarSlayerSam)
+   <img align="center" alt="SamAssareymuriyil's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SamAssareymuriyil&show_icons=true&hide_border=true" /> <br>
+   ![My Wall](https://idemoed.vercel.app/api/wall?username=GuitarSlayerSam)
   </samp>
 </p>
 
