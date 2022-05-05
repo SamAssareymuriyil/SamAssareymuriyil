@@ -8,11 +8,11 @@
     :sparkles: Favorite Tech: JavaScript, Python <br
     :notebook: I’m currently learning React and improving my knowledge of JS <br>
     :email:	Email: samabraham.assareymuriyil@gmail.com <br>
-    :art: Personal Wesite: https://samabrahama.tech/ <br>
+    :art: Personal Wesite: https://samabrahama.com/ <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/sam-abraham-assareymuriyil/ <br>
     🧳 Devpost: https://devpost.com/GuitarSlayerSam <br>
    <img align="center" alt="SamAssareymuriyil's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=SamAssareymuriyil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </samp>
 </p>
 
-[website]: https://samabrahama.tech/
+[website]: https://samabrahama.com/
