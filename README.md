@@ -4,10 +4,10 @@
 <p align="center">
   <samp>
     Hi, I'm Sam! 👋 <br>
-    I am a backend web-developer and artificial intelligence enthusiast, 💻 inspired to develop technologies for the greater good. <br>
-    :sparkles: Favorite Tech: JavaScript, Python <br
+    I am an aspiring mechatronics engineer, enthusiastic about artificial intelligence, robotics, vehicles, and motorsport. I aim to create and develop technology for the greater good. <br>
+    :sparkles: Languages: JavaScript, Python, C++, Java <br
     :notebook: I’m currently learning React and improving my knowledge of JS <br>
-    :email:	Email: samabraham.assareymuriyil@gmail.com <br>
+    :email:	Email: sam.assareymuriyil@ontariotechu.net <br>
     :art: Personal Wesite: https://samabrahama.com/ <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/sam-abraham-assareymuriyil/ <br>
     🧳 Devpost: https://devpost.com/GuitarSlayerSam <br>
